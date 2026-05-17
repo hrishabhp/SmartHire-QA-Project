@@ -35,3 +35,14 @@ SmartHire is a web-based recruitment platform tested as an end-to-end QA project
 - Reported multiple defects
 - Performed basic API testing
 - Created RTM and QA documentation
+
+## AI Usage in Project
+
+AI tools were used during the project for:
+- Test scenario brainstorming
+- Test case improvement
+- Bug description refinement
+- QA documentation guidance
+- Learning API testing workflows
+
+All testing activities, validations, API execution, GitHub setup, and project organization were performed manually.
